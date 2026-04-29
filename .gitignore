@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -13,3 +14,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+=======
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+>>>>>>> e6c48bb37f797acd713dfd30a38e2dbd54b6a683
