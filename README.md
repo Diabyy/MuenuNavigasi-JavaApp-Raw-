@@ -71,12 +71,11 @@ app/src/main/
 ## 👤 Author
 
 **ADIB DIABI**   
-Kelas: XI PPLG A
+Kelas: XI PPLG A 
 PPB
 
 
 ---
 
 ## 📄 Lisensi
-
-Project ini dibuat untuk keperluan tugas praktikum. Free to use.
+Free to use.
