@@ -70,10 +70,10 @@ app/src/main/
 
 ## 👤 Author
 
-**[Nama Mahasiswa]**  
-NIM: [NIM]  
-Kelas: [Kelas]  
-Program Studi Informatika
+**ADIB DIABI**   
+Kelas: XI PPLG A
+PPB
+
 
 ---
 
