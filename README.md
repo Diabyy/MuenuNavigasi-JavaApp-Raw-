@@ -64,13 +64,7 @@ app/src/main/
 
 ---
 
-## 📸 Screenshot
 
-| Home | Profile | Drawer |
-|---|---|---|
-| ![Home](screenshots/home.png) | ![Profile](screenshots/profile.png) | ![Drawer](screenshots/drawer.png) |
-
-> Taruh screenshot di folder `screenshots/` setelah run aplikasi
 
 ---
 
